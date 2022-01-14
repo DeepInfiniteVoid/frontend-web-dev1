@@ -1,1 +1,1 @@
-A Repository for the following course @CourseEraHTML, CSS, and Javascript for Web Developers by Johns Hopkins University  Progress
+A Repository for the following course @CourseEra - HTML, CSS, and Javascript for Web Developers by Johns Hopkins University  Progress
